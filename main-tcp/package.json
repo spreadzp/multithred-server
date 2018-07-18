@@ -1,0 +1,12 @@
+{
+  "name": "main-tcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-worker main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
